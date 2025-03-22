@@ -1,15 +1,8 @@
 # The Worst Talk Ever
 
-Throughout the book, we will analyze the various mistakes made in this
-talk and provide guidance on how to avoid them.
+Before we dive into how to give a great sacrament meeting talk, let's look at what happens when everything goes wrong. My son and I crafted what might be the perfect example of what not to do. While you read this talk, try to spot the problems. How many can you find? Don't worry - we'll break them down later in the book.
 
-In this chapter, I will provide you an example of what not to do when
-giving a sacrament meeting talk. While this talk on faith may elicit a
-chuckle or two, it fails to connect with the congregation and deliver a
-meaningful message.
-
-So, without further ado, let us examine what may just be the worst
-sacrament meeting talk ever delivered.
+What you're about to read is a masterclass in what to avoid. It includes nearly every mistake I've witnessed (and, if I'm honest, made myself) over decades of listening to and giving sacrament meeting talks. While some parts might make you smile, remember that each mistake represents a missed opportunity to truly connect with the congregation and share the gospel effectively.
 
 ## My Talk on Faith
 
@@ -79,13 +72,8 @@ That, my friends, takes real faith.
 In conclusion, I'd like to bear my testimony that I know this church is
 true. In the name of thy son, Jesus Christ. Amen.
 
-## Not a Real Talk
+## Don't Worry - Help is Coming
 
-I hope you experienced a few cringe-worthy moments while reading that.
-To be clear, this talk was never actually delivered in Sacrament
-Meeting. It was specifically written to be bad.
+If you found yourself chuckling (or even cringing) while reading that talk, good! That was the intent. To be clear, this isn't a real talk - As I said, my son and I wrote it specifically to showcase common pitfalls that can derail even well-meaning speakers.
 
-Later in this book, I will explain why this was such a horrible talk,
-beyond its obvious problems, and provide you with a series of tips that
-will help make your next talk great -- even if you don't want to give
-it!
+As we continue through this book, we'll address the most significant issues demonstrated in this talk. While we won't dissect every single problem, you'll learn the key principles that will help you avoid these common mistakes and deliver talks that truly connect with your ward family.
