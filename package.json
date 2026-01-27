@@ -1,0 +1,23 @@
+{
+  "name": "sacrament-talks",
+  "private": true,
+  "scripts": {
+    "convert-epub": "mkdir -p output && pandoc -o './output/sacrament-talks.epub' --resource-path=chapters --toc --toc-depth=1 front-matter/*.md chapters/*.md back-matter/*.md title.yaml",
+    "convert-pdf": "mkdir -p output && pandoc -o './output/sacrament-talks.pdf' --resource-path=chapters --toc --toc-depth=1 front-matter/*.md chapters/*.md back-matter/*.md title.yaml",
+    "convert-word": "mkdir -p output && pandoc -o './output/sacrament-talks.docx' --resource-path=chapters-print --reference-doc=custom-reference.docx --toc --toc-depth=1 front-matter/*.md chapters/*.md back-matter/*.md title.yaml",
+    "convert-kdp": "mkdir -p output && pandoc -o './output/sacrament-talks.kdp.docx' --resource-path=chapters-print --reference-doc=custom-reference.docx front-matter/*.md chapters/*.md back-matter/*.md title.yaml",
+    "convert-d2d": "mkdir -p output && pandoc -o './output/sacrament-talks.epub' --resource-path=chapters --reference-doc=custom-reference.docx front-matter/*.md chapters/*.md back-matter/*.md title.yaml",
+    "lint:md": "markdownlint --fix --config .markdownlint.json '**/*.md'",
+    "backup-images": "mkdir -p chapters-print/images && cp chapters/images/* chapters-print/images/",
+    "optimize-epub-images": "mogrify -auto-orient -compress JPEG -quality 85 -resize 1000x chapters/images/*",
+    "resize-print-images": "mogrify -resize \"$(( ${WIDTH_IN_INCHES:-5} * 300 ))x\" chapters-print/images/*",
+    "open-epub": "open output/sacrament-talks.epub",
+    "open-pdf": "open output/sacrament-talks.pdf",
+    "open-word": "open output/sacrament-talks.docx"
+  },
+  "devDependencies": {
+    "markdownlint": "^0.37.4",
+    "markdownlint-cli": "^0.44.0",
+    "prettier": "^3.3.3"
+  }
+}

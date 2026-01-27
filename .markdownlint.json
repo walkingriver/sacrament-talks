@@ -1,0 +1,19 @@
+{
+  "MD013": false,
+  "MD033": false,
+  "MD032": {
+    "blanks_around_lists": true
+  },
+  "MD012": {
+    "maximum": 1
+  },
+  "MD007": {
+    "indent": 2
+  },
+  "MD041": true,
+  "MD009": true,
+  "MD010": true,
+  "MD001": true,
+  "MD025": true,
+  "MD031": true
+}
