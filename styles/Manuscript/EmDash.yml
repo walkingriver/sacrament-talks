@@ -1,0 +1,6 @@
+extends: existence
+message: "Do not use em dashes. Use commas, periods, colons, parentheses, or a semicolon."
+level: error
+nonword: true
+tokens:
+  - —

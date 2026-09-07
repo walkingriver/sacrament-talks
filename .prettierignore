@@ -1,0 +1,11 @@
+node_modules/
+Archive/
+Archive-old-chapters/
+*.jpg
+*.png
+*.epub
+*.pdf
+*.docx
+!custom-reference.docx
+output/
+package-lock.json

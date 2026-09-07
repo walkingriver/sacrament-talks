@@ -1,0 +1,44 @@
+extends: existence
+message: "Avoid LLM-overused phrase '%s'."
+level: error
+ignorecase: true
+tokens:
+  - at the end of the day
+  - moving forward
+  - game-changer
+  - best-in-class
+  - cutting-edge
+  - it's important to note
+  - it's worth noting that
+  - delve into
+  - testament to
+  - pivotal moment
+  - political landscape
+  - released a breath she didn't know she was holding
+  - released a breath he didn't know he was holding
+  - something shifted in the air
+  - the atmosphere shifted
+  - for a long moment
+  - time seemed to slow
+  - heart swelled
+  - chest tightened
+  - world tilted
+  - crystal clear
+  - palpable tension
+  - little did they know
+  - in that instant, everything changed
+  - danced across the page
+  - danced across her skin
+  - danced across the water
+  - humming with energy
+  - humming with possibility
+  - in conclusion
+  - to summarize
+  - broadly speaking
+  - this serves as a reminder
+  - this stands as a testament
+  - that said
+  - having said that
+  - drill down
+  - circle back
+  - eyes sparkled
