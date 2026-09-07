@@ -1,0 +1,12 @@
+extends: existence
+message: "Avoid screenplay-style pause labels. Use action or rhythm instead."
+level: error
+tokens:
+  - '(?i)\bA beat\.\b'
+  - '(?i)\bA beat passed\.\b'
+  - '(?i)\ba beat, then\b'
+  - '(?i)\bA pause\.\b'
+  - '(?i)\bThere was a pause\.\b'
+  - '(?i)\bA pause, not unkind\.\b'
+  - '(?i)\bA long silence\.\b'
+  - '(?i)\bA long moment\.\b'

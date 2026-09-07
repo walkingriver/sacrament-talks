@@ -1,0 +1,24 @@
+extends: existence
+message: "Avoid LLM-overused word '%s' in manuscript prose."
+level: error
+ignorecase: true
+tokens:
+  - leverage
+  - synergy
+  - robust
+  - seamless
+  - holistic
+  - unpack
+  - delve
+  - tapestry
+  - transformative
+  - foster
+  - cultivate
+  - moreover
+  - furthermore
+  - additionally
+  - ultimately
+  - indeed
+  - tendrils
+  - nestled
+  - twinkled

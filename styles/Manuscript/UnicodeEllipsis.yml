@@ -1,0 +1,6 @@
+extends: existence
+message: "Use three periods (...) instead of the Unicode ellipsis character."
+level: error
+nonword: true
+tokens:
+  - …

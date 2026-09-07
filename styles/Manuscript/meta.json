@@ -1,0 +1,5 @@
+{
+  "feed": "Manuscript prose lint rules (typography and LLM-phrase bans).",
+  "name": "Manuscript",
+  "description": "ASCII typography and LLM-phrase bans from AGENTS.md"
+}

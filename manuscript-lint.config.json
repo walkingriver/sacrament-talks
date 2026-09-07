@@ -1,0 +1,10 @@
+{
+  "paths": [
+    "chapters",
+    "front-matter",
+    "back-matter"
+  ],
+  "extensions": [
+    ".md"
+  ]
+}
